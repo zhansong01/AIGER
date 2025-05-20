@@ -1,5 +1,6 @@
 # AIGER
 Python version of tools to work with AIG formatted files<br />
+This code is adapted from the work of [the Johannes Kepler University, Linz](https://fmv.jku.at/aiger/index.html).
 
 
 There are two versions of the code here. One is a standard py file. The other is a Jupyter notebook. The notebook version adds the capability to view the original graph (like aigtodot)  
